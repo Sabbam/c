@@ -79,6 +79,7 @@ img{
     height:200px;
 margin-top: 7px;
 padding-left: 7px;
+	pointer:cursor;
 }
 .home .carousel-item{
 	min-height: 100vh;
